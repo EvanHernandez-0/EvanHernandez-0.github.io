@@ -2,42 +2,42 @@
   "basics": {
     "name": "Evan Hernandez",
     "label": "Student",
-    "picture": "https://github.com/EvanHernandez-0.png",
+    "picture": "https://github.com/evanhernandez-0.png",
     "email": "hernandez.evan200@gmail.com",
     "phone": "***-***-****",
-    "website": "https://EvanHernandez-0.github.io",
+    "website": "https://evanhernandez-0.github.io/",
     "summary": "I’m a programming student specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m pursuing computer programming with a focus on game development within the Alamo Colleges District",
     "location": { "address": "", "postalCode": "78216", "city": "San Antonio", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "github", "username": "EvanHernandez-0", "url": "http://github.com/EvanHernandez-0" },
-      { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
+      { "network": "GitHub", "username": "EvanHernandez-0", "url": "http://github.com/EvanHernandez-0" },
+      { "network": "LinkedIn", "username": "", "url": "http://linkedin.com/in/changeme" },
+      { "network": "Twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "Instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Development" },
+    { "name": "Disgital Immaging" },
+    { "name": "Databases" },
+    { "name": "Web Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Javascript", "CSS", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "Windows", "Wordpress" ]
     }
   ],
-  "education": [
+  "Education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "San Antonio College, Tx",
+      "area": "Computer Programming (expected Spring, 2024)",
+      "studyType": "A.A.S.",
+      "startDate": "2019-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +45,68 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "",
+      "position": "",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
