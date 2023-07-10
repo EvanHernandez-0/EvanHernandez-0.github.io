@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Evan Hernandez",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/EvanHernandez-0.png",
+    "email": "hernandez.evan200@gmail.com",
+    "phone": "***-***-****",
+    "website": "https://EvanHernandez-0.github.io",
+    "summary": "I’m a programming student specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m pursuing computer programming with a focus on game development within the Alamo Colleges District",
+    "location": { "address": "", "postalCode": "78216", "city": "San Antonio", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "EvanHernandez-0", "url": "http://github.com/EvanHernandez-0" },
+      { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
