@@ -9,10 +9,10 @@
     "summary": "I’m a programming student specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m pursuing computer programming with a focus on game development within the Alamo Colleges District",
     "location": { "address": "", "postalCode": "78216", "city": "San Antonio", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "GitHub", "username": "EvanHernandez-0", "url": "http://github.com/EvanHernandez-0" }
-      //{ "network": "LinkedIn", "username": "", "url": "http://linkedin.com/in/changeme" },
-      //{ "network": "Twitter", "username": "", "url": "http://twitter.com/changeme" },
-      //{ "network": "Instagram", "username": "", "url": "http://instagram.com/changeme" }
+      { "network": "GitHub", "username": "EvanHernandez-0", "url": "http://github.com/EvanHernandez-0" },
+      { "network": "LinkedIn", "username": "", "url": "http://linkedin.com/in/changeme" },
+      { "network": "Twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "Instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
