@@ -1,10 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Google Sites"
-# All dates must be YYYY-MM-DD format!
-date: 2021-07-29
 published: true
+title: "Google Sites"
+date: 2021-07-29
 labels:
   - Web Development
 essayurl: https://drive.google.com/file/d/1lRw0dUZZhGzrixosgDHUzUo6S0V0t4W1/view?usp=sharing
