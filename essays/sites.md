@@ -9,7 +9,7 @@ labels:
 ---
 
 # Google Sites
-###### A User Guide
+ A User Guide
 
 
 ## Introduction
@@ -30,13 +30,13 @@ The first step to getting started with Google Sites or any website is connecting
 
 After Logging in to Google Sites using your google credentials you will be directed to a page with a few pre-built templates to choose from.  Some of the choices include a portfolio, a page for an event, a template for a help center, and a few others.  In this user guide, we will be starting with a fresh page to demonstrate the essential features included with this service. 
 
-- *Portfolio*
+ *Portfolio*
 Portfolio websites are extensions of a freelancer’s (or company’s) resume.   The purpose is to help land more clients by being able to showcase the abilities and skills you have.  If you plan on applying for a Front-End Developer position you might use a portfolio webpage to demonstrate your abilities in CSS and Javascript. 
 
-- *Event*
+ *Event*
 An event webpage would be used to advertise an event being hosted.  Think of it as receiving a card for a birthday party or your Highschool reunion.  Typically you’d be able to find more information about the event or RSVP for it through the website. 
 
-- *Help Center*
+ *Help Center*
 A Help Center webpage is primarily a contact page or FAQ page.  Every website has a page like this to help anyone who is lost or needs help with any questions they may have.  Typically these pages have a company's contact information if the provided “Frequently Asked Questions” (FAQ) aren’t helpful enough.
 
 ## The Google Site Exists, Now What? 
@@ -49,27 +49,27 @@ The webpage header is the first thing that people will notice on your webpage.  
 ### Esential Tools
 A few of the essential tools found in the Google Sites application are Text Box, Images, Embedded, and Drive. The Text Box tool allows the user to add text in easy-to-control containers.  The Image tool allows the user to add images to the page.  The Embed tool is used to add links or other things that can be embedded to a page such as videos.  The Drive tool is just for adding items straight from your google drive. 
 
-- *Text Box*
+ *Text Box*
 The Text Box tool has to be the most important feature in the user’s arsenal.  This tool allows you to add text into containers that can be adapted to all of your needs.  It makes one of the most common jobs in front-end development a breeze. 
 
-- *Images*
+ *Images*
 Inserting Images in Google Sites is incredibly simple.  Images can be uploaded from your computer, straight from a url, or from the integrated google image search tool.  After adding the image, it can be cropped, resized, and even be captioned. 
 
-- *Embed Tool*
+ *Embed Tool*
 This tool lets the website designer embed things such as videos, articles, posts, and even more.  I used this tool to embed a post from Instagram.  This tool makes anchoring links and other objects much easier to understand.  You can embed using a URL or an actual HTML code. 
 
 ### Changing the layout and other features
 
-- #### *Layouts*
+ #### *Layouts*
 Another design element available on Google Sites is the ability to change the layout of the page. This makes creating the perfect look very intuitive.  Using the different layouts can make your webpage stand out from the rest of the competition.   By combining a layout with images and text you can create a blog-style page in minutes. 
 
-- *Adding Pages*
+ *Adding Pages*
 No website is complete without multiple pages.  Adding web pages in Google Sites is as easy as clicking a button. By tabbing over to the pages tab you can add another page by clicking the large “+” at the bottom of the Pages tab.  After adding the page you’ll be prompted to name the new page then it’ll be added to the bottom of your pages list.  Once the pages are added, you can also navigate between them by clicking the page you wish to edit in the list of created webpages. 
 
-- *Adding external links*
+ *Adding external links*
 Adding external links to your webpage is a great way to include social media, forms, or even articles to your page.  They can be added to any text using the Google Sites text editor and clicking the “insert link” button to add the desired URL to the selected text.  Adding external links is useful especially on a contact webpage to help the user be able to find help if needed. 
 
-- *Working with friends*
+ *Working with friends*
 Google Sites makes working with your “friends” almost as easy as cooking a raw steak.  At the top right of the screen, you will find a few buttons, one being the “share with others” button.  With this, you can add anyone to help you with your site, or be a published viewer.  Having “friends” has never been more fun, now you can hang out while being able to delete all of their hard work. 
 
 
