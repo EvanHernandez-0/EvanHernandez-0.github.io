@@ -1,5 +1,5 @@
-<title>Google Sites </title>
-<sub>A User Guide</sub>
+# Google Sites
+## A User Guide
 
 
 ## Introduction
