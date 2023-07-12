@@ -1,4 +1,4 @@
-{
+it{
   "basics": {
     "name": "Evan Hernandez",
     "label": "Student",
@@ -44,56 +44,20 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Merit Coffee",
+      "position": "Team Lead",
+      "website": "https://meritcoffee.com/",
+      "startDate": "March 2022",
+      "endDate": "Present",
+      "summary": "Lead baristas are instrumental in building customer relationships and fostering a positive and friendly store environment. They also provide technical guidance to new team members and assist in the training program.",
       "highlights": [
-        ""
+        "·  Welcoming customers, informing them about specials or new items, answering questions, and accepting orders and payments",
+
+        "·  Preparing specialty coffee drinks of the very highest quality, as well as teas and other beverages",
+
+        "·  Maintain coffee knowledge on current offerings and clearly communicate product information to customers"
       ]
     },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "",
