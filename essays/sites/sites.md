@@ -11,7 +11,8 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-# A User Guide
+# Google Sites
+<sub> A User Guide </sub>
 
 ## Introduction
 
