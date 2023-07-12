@@ -1,16 +1,3 @@
----
-layout: essay
-type: essay
-title: "Google Sites"
-# All dates must be YYYY-MM-DD format!
-date: 2021-07-29
-published: false
-labels:
-  - Web Development
----
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 <title>Google Sites </title>
 <sub>A User Guide</sub>
 
