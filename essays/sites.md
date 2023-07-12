@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+published: true
+title: "Google Sites"
+date: 2021-07-29
+labels:
+  - Web Development
+---
+
 # Google Sites
 ###### A User Guide
 
