@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-published: true
 title: "Google Sites"
 date: 2021-07-29
+published: true
 labels:
   - Web Development
 ---
@@ -96,4 +96,4 @@ Below you can find a link to the published site built along with this user guide
 [CloudNine](https://sites.google.com/view/cloud99nine/blog)
 
 ## References
-##### “Google Sites.” Wikipedia, Wikimedia Foundation, 29 June 2021, en.wikipedia.org/wiki/Google_Sites.  
+### “Google Sites.” Wikipedia, Wikimedia Foundation, 29 June 2021, en.wikipedia.org/wiki/Google_Sites.  
