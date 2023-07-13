@@ -15,6 +15,10 @@
   --tf-projects-bg-color: var(--bs-gray-100);
 }
 
+h1 {
+border-style:none;
+}
+
 /* Format social media icons */
 .tf-social {
   display: inline-block;
