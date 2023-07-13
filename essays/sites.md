@@ -93,7 +93,7 @@ This user guide helped show what is necessary for getting started with Google Si
 <h6>Challenges and personal experience using Google Sites</h6>
 If I had to describe my experience using Google Sites with a single word, I would say it was “Smart”.  Working with Google Sites made me feel like a professional just zipping through the process.  Everything I could want or need was a click away, and if it wasn’t one click away at most it was two.  My first impression was that Google Sites was for only those who didn't know a lick about coding, and by that I mean that there wasn’t an obvious way to add your own styling or html.  I still don’t completely know if there is, but by using the embed tool I was able to make a simple button with html.  The only challenge I ran into with Google Sites was making a collapsible text box group that excluded a text container above the other two containers I wanted paired together.  Everything else was very straight forward and very well thought out for who would be using this service. 
 Below you can find a link to the published site built along with this user guide. 
-[CloudNine](https://sites.google.com/view/cloud99nine/blog)
+  [CloudNine](https://sites.google.com/view/cloud99nine/blog)
 
 <h2>References</h2> 
 [^1]: “Google Sites.” Wikipedia, Wikimedia Foundation, 29 June 2021, en.wikipedia.org/wiki/Google_Sites.   
