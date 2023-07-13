@@ -30,7 +30,7 @@ The first step to getting started with Google Sites or any website is connecting
 
 After Logging in to Google Sites using your google credentials you will be directed to a page with a few pre-built templates to choose from.  Some of the choices include a portfolio, a page for an event, a template for a help center, and a few others.  In this user guide, we will be starting with a fresh page to demonstrate the essential features included with this service. 
 
- - - <h4>Portfolio</h4>
+ - <h4>Portfolio</h4>
 Portfolio websites are extensions of a freelancer’s (or company’s) resume.   The purpose is to help land more clients by being able to showcase the abilities and skills you have.  If you plan on applying for a Front-End Developer position you might use a portfolio webpage to demonstrate your abilities in CSS and Javascript. 
 
  - <h4>Event</h4> 
