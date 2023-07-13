@@ -18,7 +18,7 @@ This is a user guide to demonstrate what features and how easy it is to use Goog
 
 <h2>History</h2>
 
-Google Sites began as a service that was focused on small and medium-sized businesses called JotSpot. The company was founded by co-founders, Joe Kraus and Graham Spencer, of Excite.  Google acquired JotSpot in October of 2006 and after two years of redesign launched what is now Google Sites.  In 2016 Google introduced a rebuild of their classic Google Sites, named New Google Sites.  In August of 2020, the new Google Sites became the new default look.¹
+Google Sites began as a service that was focused on small and medium-sized businesses called JotSpot. The company was founded by co-founders, Joe Kraus and Graham Spencer, of Excite.  Google acquired JotSpot in October of 2006 and after two years of redesign launched what is now Google Sites.  In 2016 Google introduced a rebuild of their classic Google Sites, named New Google Sites.  In August of 2020, the new Google Sites became the new default look.[^1]
 
 <h2>Getting Started</h2> 
 
@@ -96,4 +96,4 @@ Below you can find a link to the published site built along with this user guide
 [CloudNine](https://sites.google.com/view/cloud99nine/blog)
 
 <h2>References</h2> 
-<h6>“Google Sites.” Wikipedia, Wikimedia Foundation, 29 June 2021, en.wikipedia.org/wiki/Google_Sites.</h6>   
+[^1]: “Google Sites.” Wikipedia, Wikimedia Foundation, 29 June 2021, en.wikipedia.org/wiki/Google_Sites.   
