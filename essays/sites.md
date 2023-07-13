@@ -22,11 +22,11 @@ Google Sites began as a service that was focused on small and medium-sized busin
 
 <h2>Getting Started</h2> 
 
-*<h3>Logging in</h3>* 
+<h3>Logging in</h3> 
 
 The first step to getting started with Google Sites or any website is connecting to it then sign-in.  After using google to navigate to the website you will be prompted to sign in using your Google email and password respectively.  
 
-*<h3>Choosing a template</h3>* 
+<h3>Choosing a template</h3> 
 
 After Logging in to Google Sites using your google credentials you will be directed to a page with a few pre-built templates to choose from.  Some of the choices include a portfolio, a page for an event, a template for a help center, and a few others.  In this user guide, we will be starting with a fresh page to demonstrate the essential features included with this service. 
 
@@ -43,10 +43,10 @@ A Help Center webpage is primarily a contact page or FAQ page.  Every website ha
 
 After beginning a new site you will be directed to the Google Sites page builder interface.  The first text box highlighted is for the title of your page.  On the right-hand side of the screen, you will find all the tools to design your webpage. 
 
-*<h3>Webpage Helper</h3>* 
+<h3>Webpage Helper</h3> 
 The webpage header is the first thing that people will notice on your webpage.  Google Sites has made editing and designing the header to be incredibly easy.   You can add a title and edit the text size and font all through the simple-to-use text editor that can be found in any google application.  After adding a title to your page you can change the header image and header type by highlighting the header and clicking the buttons. 
 
-*<h3>Esential Tools</h3>* 
+<h3>Esential Tools</h3> 
 A few of the essential tools found in the Google Sites application are Text Box, Images, Embedded, and Drive. The Text Box tool allows the user to add text in easy-to-control containers.  The Image tool allows the user to add images to the page.  The Embed tool is used to add links or other things that can be embedded to a page such as videos.  The Drive tool is just for adding items straight from your google drive. 
 
  - <h5>Text Box</h5> 
@@ -58,7 +58,7 @@ Inserting Images in Google Sites is incredibly simple.  Images can be uploaded f
  - <h5>Embed Tool</h5> 
 This tool lets the website designer embed things such as videos, articles, posts, and even more.  I used this tool to embed a post from Instagram.  This tool makes anchoring links and other objects much easier to understand.  You can embed using a URL or an actual HTML code. 
 
-*<h3>Changing the layout and other features</h3>* 
+<h3>Changing the layout and other features</h3> 
 
  - <h5>Layouts</h5> 
 Another design element available on Google Sites is the ability to change the layout of the page. This makes creating the perfect look very intuitive.  Using the different layouts can make your webpage stand out from the rest of the competition.   By combining a layout with images and text you can create a blog-style page in minutes. 
@@ -76,13 +76,13 @@ Google Sites makes working with your “friends” almost as easy as cooking a r
 <h2>Okay, I made the site.  What Now?</h2> 
 You have a functioning and great looking website now!  What now? Well now you need to see what it looks like from the public view.  We still need to publish your website and if you need to, how to make changes to your site and republish the updated site.  The final touch will be how to secure a custom domain for your website so it’s easier to find online. 
 
-*<h3>Veiwing your website</h3>* 
+<h3>Veiwing your website</h3> 
 It’s important to get a look at how your website will look without all the extra things going on around it.  Viewing your website before publishing it gives you an idea of how it'll be seen by the public and an idea of what you may have missed or want to add still.  You can view your website by finding the “Preview” button at the top of the page near the “Share with others” button.  “Preview” allows the user to view what the published website will look like from the perspective of a desktop, tablet, or a mobile device. 
 
-*<h3>Publishing your website</h3>* 
+<h3>Publishing your website</h3> 
 After you’ve given your site a once over, it’s finally time to publish your website!  Publishing your website means making it accessible to the rest of the world.  Publishing a website with Google Sites is, like everything else, incredibly easy and straightforward.  At the top right corner of the page, you can find the purple “Publish” button.  It has a drop down menu as well.  Not only can you publish the website, but you can change the publish settings, review any changes you’ve made to your website and update it, view your published website, and finally “unpublish” your website if you need. 
 
-*<h3>Creating a custom domain</h3>* 
+<h3>Creating a custom domain</h3> 
 The last step, and the part that costs an insane amount of money, is creating a domain.  Using the “Gear” button, also known as the settings button, locate “Custom domains”.  After navigating to the custom domains tab, you will see a “Start setup” button that will create a pop up with two options.  The top option lets the user use a domain from a third party.  The bottom option lets the user buy a domain and will redirect you to Google Domains.  From there you proceed with the purchasing of a custom domain. 
 
 
