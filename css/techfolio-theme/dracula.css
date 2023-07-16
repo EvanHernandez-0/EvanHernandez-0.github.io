@@ -24,6 +24,14 @@ h1 {
 	border: none;
 }
 
+body {
+	color: #b6b6bd;
+}
+
+.navbar {
+	background-color: #282a36;
+}
+
 /* Format social media icons */
 .tf-social {
 	display: inline-block;
