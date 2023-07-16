@@ -1,87 +1,104 @@
 {
-	"basics": {
-		"name": "Evan Hernandez",
-		"label": "Student",
-		"picture": "https://github.com/evanhernandez-0.png",
-		"email": "hernandez.evan200@gmail.com",
-		"phone": "***-***-0339",
-		"website": "https://evanhernandez-0.github.io/",
-		"summary": "I’m a programming student specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m pursuing computer programming with a focus on game development within the Alamo Colleges District",
-		"location": {
-			"address": "",
-			"postalCode": "78216",
-			"city": "San Antonio",
-			"countryCode": "USA",
-			"region": "Texas"
-		},
-		"profiles": [{
-				"network": "GitHub",
-				"username": "",
-				"url": "http://github.com/EvanHernandez-0"
-			},
-			{
-				"network": "LinkedIn",
-				"username": "",
-				"url": "http://linkedin.com/in/evan-hernandez-a2a821112"
-			}
-		]
-	},
-	"interests": [{
-			"name": "Interactive media"
-		},
-		{
-			"name": "Game Development"
-		},
-		{
-			"name": "Digital Imaging"
-		},
-		{
-			"name": "Databases"
-		},
-		{
-			"name": "Web Development"
-		}
-	],
-	"skills": [{
-			"name": "Languages and Frameworks",
-			"keywords": ["C", "C++", "Javascript", "CSS", "SQL"]
-		},
-		{
-			"name": "Toolsets/OS",
-			"keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "Windows", "WordPress"]
-		}
-	],
-	"Education": [{
-		"institution": "San Antonio College, Tx",
-		"area": "Computer Programming (expected Spring, 2024)",
-		"studyType": "A.A.S.",
-		"startDate": "2019-09-01",
-		"endDate": "Present",
-		"courses": []
-	}],
-	"work": [{
-			"company": "Merit Coffee",
-			"position": "Team Lead",
-			"website": "https://meritcoffee.com/",
-			"startDate": "Mar 2022",
-			"endDate": "N/A",
-			"summary": "Lead baristas are instrumental in building customer relationships and fostering a positive and friendly store environment. They also provide technical guidance to new team members and assist in the training program.",
-			"highlights": [
-				"·  Welcoming customers, informing them about specials or new items, answering questions, and accepting orders and payments",
+  "basics": {
+    "name": "Evan Hernandez",
+    "label": "Student",
+    "picture": "https://github.com/evanhernandez-0.png",
+    "email": "hernandez.evan200@gmail.com",
+    "phone": "***-***-0339",
+    "website": "https://evanhernandez-0.github.io/",
+    "summary": "I’m a programming student specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m pursuing computer programming with a focus on game development within the Alamo Colleges District",
+    "location": {
+      "address": "",
+      "postalCode": "78216",
+      "city": "San Antonio",
+      "countryCode": "USA",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": "http://github.com/EvanHernandez-0"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "http://linkedin.com/in/evan-hernandez-a2a821112"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Interactive media"
+    },
+    {
+      "name": "Game Development"
+    },
+    {
+      "name": "Digital Imaging"
+    },
+    {
+      "name": "Databases"
+    },
+    {
+      "name": "Web Development"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": ["C", "C++", "Javascript", "CSS", "SQL"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "Windows",
+        "WordPress"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "San Antonio College, Tx",
+      "area": "Computer Programming (expected Spring, 2024)",
+      "studyType": "A.A.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "Merit Coffee",
+      "position": "Team Lead",
+      "website": "https://meritcoffee.com/",
+      "startDate": "Mar 2022",
+      "endDate": "N/A",
+      "summary": "Lead baristas are instrumental in building customer relationships and fostering a positive and friendly store environment. They also provide technical guidance to new team members and assist in the training program.",
+      "highlights": [
+        "·  Welcoming customers, informing them about specials or new items, answering questions, and accepting orders and payments",
 
-				"·  Preparing specialty coffee drinks of the very highest quality, as well as teas and other beverages",
+        "·  Preparing specialty coffee drinks of the very highest quality, as well as teas and other beverages",
 
-				"·  Maintain coffee knowledge on current offerings and clearly communicate product information to customers"
-              ]}
-    		],
-		"awards": [{
-				"title": "Web Programming, Occupational Skills Award",
-				"date": "Spring 2022",
-				"awarder": "San Antonio College",
-				"summary": "The Computer Programming Occupational Skills award is a basic introduction to web programming and a starting point for the Level 1 Certificate."
-			}
-		],
-		"references": [{
-			"name": "Available upon request"
-		}]
-	}
+        "·  Maintain coffee knowledge on current offerings and clearly communicate product information to customers"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Web Programming, Occupational Skills Award",
+      "date": "Spring 2022",
+      "awarder": "San Antonio College",
+      "summary": "The Computer Programming Occupational Skills award is a basic introduction to web programming and a starting point for the Level 1 Certificate."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
