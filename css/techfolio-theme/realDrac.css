@@ -24,7 +24,7 @@
 }
 
 header {
-    background-color: #282a36;
+    background-color: var(--dracula-background);
 }
 
 body {
@@ -33,7 +33,7 @@ body {
 }
 
 footer {
-    background-color: #282a36;
+    background-color: var(--dracula-background);
 }
 
 /* Example usage */
@@ -66,6 +66,10 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-    background-color: #282a36;
+    background-color: var(--dracula-background);
     border-top: none;
+}
+
+#essays.bg {
+    background-color: var(--dracula-background);
 }
