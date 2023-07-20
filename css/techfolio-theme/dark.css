@@ -1,51 +1,67 @@
-/* Dark theme. Simple, yet elegant. */
+/* Dracula Theme: modifies the default theme to inject a wee bit o' spooky in various places. */
 
-/* Use Open Sans as the default sans serif font. */
+/* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  --dracula-background: #282a36;
+  /* Dracula theme background color */
+  --dracula-current-line: #44475a;
+  /* Dracula theme current line highlight color */
+  --dracula-foreground: #f8f8f2;
+  /* Dracula theme foreground text color */
+  --dracula-selection: #44475a;
+  /* Dracula theme selection background color */
+  --dracula-comment: #6272a4;
+  /* Dracula theme comment color */
+  --dracula-cyan: #8be9fd;
+  /* Dracula theme cyan color */
+  --dracula-green1: #50fa7b;
+  /* Dracula theme green1 color */
+  --dracula-green2: #37b55e;
+  /* Dracula theme green2 color */
+  --dracula-orange: #ffb86c;
+  /* Dracula theme orange color */
+  --dracula-pink: #ff79c6;
+  /* Dracula theme pink color */
+  --dracula-purple: #bd93f9;
+  /* Dracula theme purple color */
+  --dracula-red: #ff5555;
+  /* Dracula theme red color */
+  --dracula-yellow: #f1fa8c;
+  /* Dracula theme yellow color */
+
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--bs-blue);
-  --tf-pill-bg: var(--bs-gray);
-  --tf-icon-fill: var(--bs-gray);
-  --tf-icon-hover: var(--bs-gray-500);
-  --tf-page-bg-color: #1a1a1a;
-  /* Dark mode background color */
-  --tf-footer-bg-color: #303030;
-  /* Dark mode footer background color */
-  --tf-projects-bg-color: #262626;
-  /* Dark mode projects background color */
-  --tf-text-color: #ffffff;
-  /* Dark mode text color */
+  --bs-link-color: var(--dracula-cyan);
+  --tf-pill-bg: var(--dracula-cyan);
+  --tf-icon-fill: var(--dracula-cyan);
+  --tf-icon-hover: var(--dracula-green1);
+  --tf-page-bg-color: var(--dracula-background);
+  --tf-footer-bg-color: var(--dracula-current-line);
+  --tf-projects-bg-color: var(--dracula-current-line);
 }
 
-/* Update text color to white for dark mode */
-body,
-p,
 h1,
 h2,
 h3,
 h4,
-h5,
-h6,
-a {
-  color: var(--tf-text-color);
+h5 {
+  color: var(--dracula-green1);
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-icon-fill);
+  fill: var(--dracula-cyan);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
   transition: 0.2s;
 }
 
-/* Update social media icon color for dark mode */
 .tf-social:hover {
-  fill: var(--tf-icon-hover);
+  fill: var(--dracula-green2);
 }
 
 a {
@@ -54,6 +70,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--tf-footer-bg-color);
+  background-color: var(--bs-white);
   border-top: none;
 }
