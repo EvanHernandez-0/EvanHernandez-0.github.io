@@ -1,9 +1,8 @@
 ---
 layout: blog
 type: blog
-title: Testing 123
+title: "Test123"
 date: 2023-07-19
-categories: tech
 published: true
 labels:
   - Web Development
