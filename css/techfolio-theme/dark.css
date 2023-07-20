@@ -5,54 +5,29 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --dracula-background: #282a36;
-  /* Dracula theme background color */
-  --dracula-current-line: #44475a;
-  /* Dracula theme current line highlight color */
-  --dracula-foreground: #f8f8f2;
-  /* Dracula theme foreground text color */
-  --dracula-selection: #44475a;
-  /* Dracula theme selection background color */
-  --dracula-comment: #6272a4;
-  /* Dracula theme comment color */
-  --dracula-cyan: #8be9fd;
-  /* Dracula theme cyan color */
+  --dracula-bg: #282a36;
+  /* Background color */
   --dracula-green1: #50fa7b;
-  /* Dracula theme green1 color */
-  --dracula-green2: #37b55e;
-  /* Dracula theme green2 color */
-  --dracula-orange: #ffb86c;
-  /* Dracula theme orange color */
-  --dracula-pink: #ff79c6;
-  /* Dracula theme pink color */
-  --dracula-purple: #bd93f9;
-  /* Dracula theme purple color */
-  --dracula-red: #ff5555;
-  /* Dracula theme red color */
-  --dracula-yellow: #f1fa8c;
-  /* Dracula theme yellow color */
-
+  --dracula-green2: #8be9fd;
+  --dracula-green3: #f1fa8c;
+  --dracula-green4: #f8f8f2;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--dracula-cyan);
-  --bs-pill-bg: var(--dracula-cyan);
-  /* Updated variable name */
-  --bs-icon-fill: var(--dracula-cyan);
-  /* Updated variable name */
-  --bs-icon-hover: var(--dracula-green1);
-  /* Updated variable name */
-  --bs-page-bg-color: var(--dracula-background);
-  /* Updated variable name */
-  --bs-footer-bg-color: var(--dracula-current-line);
-  /* Updated variable name */
-  --bs-projects-bg-color: var(--dracula-current-line);
-  /* Updated variable name */
-  --bs-text-color: var(--dracula-foreground);
-  /* Updated variable name */
+  --bs-link-color: var(--dracula-green1);
+  --dracula-pill-bg: var(--dracula-green3);
+  --dracula-icon-fill: var(--dracula-green1);
+  --dracula-icon-hover: var(--dracula-green2);
+  --dracula-page-bg-color: var(--dracula-bg);
+  --dracula-footer-bg-color: var(--dracula-green4);
+  --dracula-projects-bg-color: var(--dracula-green4);
+}
+
+body {
+  background-color: var(--dracula-bg);
 }
 
 p {
-  color: var(--bs-text-color);
-  /* Apply Dracula theme font color to paragraphs */
+  color: var(--dracula-green4);
+  /* Paragraph font color */
 }
 
 h1,
@@ -66,17 +41,16 @@ h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--bs-icon-fill);
-  /* Use the updated Dracula variable */
+  fill: var(--dracula-icon-fill);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
   transition: 0.2s;
 }
 
+/* Update social media icon color for Dracula theme */
 .tf-social:hover {
-  fill: var(--bs-icon-hover);
-  /* Use the updated Dracula variable */
+  fill: var(--dracula-icon-hover);
 }
 
 a {
@@ -85,7 +59,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-footer-bg-color);
-  /* Use the updated Dracula variable */
+  background-color: var(--dracula-footer-bg-color);
   border-top: none;
 }
