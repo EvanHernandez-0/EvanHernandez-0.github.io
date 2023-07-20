@@ -3,7 +3,7 @@ layout: blog
 type: blog
 title: "The Power of Data: Unraveling the Mysteries of Big Data Analytics"
 image: 'img/posts/image_url_3.avif'
-date: '2023-07-22'
+date: '2023-07-20'
 published: true
 labels:
   - 'Data Science'
