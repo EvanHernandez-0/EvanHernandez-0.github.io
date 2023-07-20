@@ -2,7 +2,7 @@
 layout: blog
 type: blog
 title: "Unleashing Creativity: A Journey Through Game Development"
-image: 'img/posts/image_url_2.jpg'
+image: 'img/posts/image_url_2.png'
 date: '2023-07-21'
 published: true
 labels:
