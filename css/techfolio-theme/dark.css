@@ -62,3 +62,9 @@ a {
   background-color: var(--dracula-footer-bg-color);
   border-top: none;
 }
+
+/* Update the container background and text color */
+.container {
+  background-color: var(--dracula-page-bg-color);
+  color: var(--dracula-green4);
+}
