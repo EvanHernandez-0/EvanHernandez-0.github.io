@@ -41,8 +41,6 @@ In conclusion, Artificial Intelligence holds tremendous promise for humanity, us
 
 ---
 
-This blog post aims to provide an insightful journey through the realm of Artificial Intelligence, exploring its history, applications, and ethical dimensions. We hope this exploration encourages readers to embrace the transformative potential of AI while recognizing the importance of responsible development. Join us in this captivating voyage as we navigate the mysteries and unlock the boundless possibilities of Artificial Intelligence.
-
-![AI](image_url_1.jpg)
+![AI](img/posts/image_url_1.webp)
 
 ---
