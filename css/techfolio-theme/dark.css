@@ -21,6 +21,7 @@
   --dracula-projects-bg-color: var(--dracula-green4);
   --dracula-essays-bg-color: var(--dracula-green4);
   --dracula-blog-bg-color: var(--dracula-green4);
+  --bs-white:: #282a36;
 }
 
 body {
