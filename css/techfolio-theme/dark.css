@@ -34,12 +34,25 @@
 
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--dracula-cyan);
-  --tf-pill-bg: var(--dracula-cyan);
-  --tf-icon-fill: var(--dracula-cyan);
-  --tf-icon-hover: var(--dracula-green1);
-  --tf-page-bg-color: var(--dracula-background);
-  --tf-footer-bg-color: var(--dracula-current-line);
-  --tf-projects-bg-color: var(--dracula-current-line);
+  --bs-pill-bg: var(--dracula-cyan);
+  /* Updated variable name */
+  --bs-icon-fill: var(--dracula-cyan);
+  /* Updated variable name */
+  --bs-icon-hover: var(--dracula-green1);
+  /* Updated variable name */
+  --bs-page-bg-color: var(--dracula-background);
+  /* Updated variable name */
+  --bs-footer-bg-color: var(--dracula-current-line);
+  /* Updated variable name */
+  --bs-projects-bg-color: var(--dracula-current-line);
+  /* Updated variable name */
+  --bs-text-color: var(--dracula-foreground);
+  /* Updated variable name */
+}
+
+p {
+  color: var(--bs-text-color);
+  /* Apply Dracula theme font color to paragraphs */
 }
 
 h1,
@@ -53,7 +66,8 @@ h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--dracula-cyan);
+  fill: var(--bs-icon-fill);
+  /* Use the updated Dracula variable */
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -61,7 +75,8 @@ h5 {
 }
 
 .tf-social:hover {
-  fill: var(--dracula-green2);
+  fill: var(--bs-icon-hover);
+  /* Use the updated Dracula variable */
 }
 
 a {
@@ -70,6 +85,7 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--bs-footer-bg-color);
+  /* Use the updated Dracula variable */
   border-top: none;
 }
