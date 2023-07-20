@@ -41,6 +41,6 @@ In conclusion, Artificial Intelligence holds tremendous promise for humanity, us
 
 ---
 
-![AI](../img/posts/image_url_1.webp)
+![AI](/../img/posts/image_url_1.webp")
 
 ---
