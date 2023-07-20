@@ -6,17 +6,17 @@
             </div>
         </div>
 
-        <div class="row g-3">
-            {% assign post = site.pages | where: "type", "post" | sort: "date" | reverse %}
-            {% for page in post %}
-            {% unless page.draft %}
-            {% include post page=page %}
-            {% endunless %}
-            {% if forloop.index == include.limit %}
-            {% break %}
-            {% endif %}
-            {% endfor %}
-        </div>
+    <div class="vstack gap-3">
+        {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
+        {% for page in blog_pages %}
+        {% unless page.draft %}
+        {% include blog/blog-card.html page=page %}
+        {% endunless %}
+        {% if forloop.index == include.limit %}
+        {% break %}
+        {% endif %}
+        {% endfor %}
+    </div>
 
         {% if post.size > include.limit %}
         <p class="text-center pt-4"><a href="{{ site.baseurl}}/blog/">See all {{ post.size }} blog</a></p>
