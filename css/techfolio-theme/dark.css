@@ -19,6 +19,8 @@
   --dracula-page-bg-color: var(--dracula-bg);
   --dracula-footer-bg-color: var(--dracula-green4);
   --dracula-projects-bg-color: var(--dracula-green4);
+  --dracula-essays-bg-color: var(--dracula-green4);
+  --dracula-blog-bg-color: var(--dracula-green4);
 }
 
 body {
@@ -69,8 +71,3 @@ a {
   color: var(--dracula-green4);
 }
 
-/* Update the div background and text color */
-div {
-  background-color: var(--dracula-projects-bg-color);
-  color: var(--dracula-green4);
-}
