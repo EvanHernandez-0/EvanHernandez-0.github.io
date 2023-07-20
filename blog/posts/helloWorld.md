@@ -4,7 +4,7 @@ type: blog
 title: "Hello, World"
 image: img/hello/hello_world.png
 date: 2023-07-19
-published: false
+published: true
 labels:
   - Web Development
 summary: "Evan Hernandez
