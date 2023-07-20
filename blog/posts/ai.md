@@ -20,7 +20,7 @@ summary: "Delving into the fascinating world of AI, its applications, and its po
 Artificial Intelligence (AI) is a rapidly advancing field that has captured the imagination of scientists, engineers, and enthusiasts worldwide. It encompasses the development of intelligent systems that can simulate human-like behaviors and cognitive functions. From its early conceptual stages to the present-day advancements, AI has evolved remarkably, revolutionizing various industries.
 
 ## Delving into AI's History
-
+dd
 To understand the present state of AI, we must delve into its rich history. The roots of AI can be traced back to the Dartmouth Workshop in 1956, where the term "Artificial Intelligence" was coined. Since then, researchers and pioneers have made significant strides, propelling AI from theoretical concepts to practical applications.
 
 ## Breakthroughs that Shape AI Today
