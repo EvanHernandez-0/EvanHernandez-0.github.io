@@ -7,6 +7,8 @@ date: 2023-07-19
 published: true
 labels:
   - Web Development
+summary: "Evan Hernandez
+Software Developer | Game Enthusiast | Web Developer"
 ---
 
 # Evan Hernandez
