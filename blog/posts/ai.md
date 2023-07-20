@@ -2,7 +2,7 @@
 layout: blog
 type: blog
 title: "Exploring the Wonders of Artificial Intelligence"
-image: 'image_url_1.jpg'
+image: 'img/posts/image_url_1.webp'
 date: '2023-07-20'
 published: true
 labels:
