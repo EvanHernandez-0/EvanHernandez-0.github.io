@@ -25,6 +25,12 @@ body {
   background-color: var(--dracula-bg);
 }
 
+/* Update the div background and text color */
+div {
+  background-color: var(--dracula-projects-bg-color);
+  color: var(--dracula-green4);
+}
+
 p {
   color: var(--dracula-green4);
   /* Paragraph font color */
