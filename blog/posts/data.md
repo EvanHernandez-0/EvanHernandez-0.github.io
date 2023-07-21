@@ -51,6 +51,6 @@ Big data analytics is an indispensable tool in the modern business landscape. It
 So, let's take the plunge into the world of data science and unlock the immense possibilities that big data analytics has to offer. Join me on this exhilarating journey as we navigate through the sea of data and harness its power for a better, data-driven world.
 
 
-![Big Data Analytics](/../img/posts/image_url_3.jpg)
+![Big Data Analytics](/../img/posts/image_url_3.avif)
 
 ---

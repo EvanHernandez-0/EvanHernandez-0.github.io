@@ -48,6 +48,6 @@ At its core, game development is about creating joy for players. The thrill of s
 In conclusion, game development is a harmonious fusion of art and technology. It's a process that demands technical expertise, but it's also an outlet for boundless creativity. From the initial spark of an idea to the polished final product, game development is an exciting journey that enriches the lives of both developers and players alike. So, whether you're a creator or a player, let's celebrate the magic of game development together!
 
 
-![Game Development](/../img/posts/image_url_2.jpg)
+![Game Development](/../img/posts/image_url_2.png)
 
 ---
