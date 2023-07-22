@@ -7,7 +7,7 @@ published: true
 labels:
   - Web Development
 ---
-<object data="../essays/pdf/project.pdf" width="2000" height="1000" type='application/pdf'></object>
+<object data="../essays/pdf/project.pdf#view=FitH" width="1000" height="1000" type='application/pdf'></object>
 <h1> Google Sites</h1>
  A User Guide
 
