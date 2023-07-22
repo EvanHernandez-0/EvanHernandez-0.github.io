@@ -7,5 +7,5 @@ published: true
 labels:
   - Web Development
 ---
- <h6>A User Guide</h6>
+ <sub>A User Guide</sub>
 <object data="../essays/pdf/project.pdf#view=FitH" width="1500" height="1000" type='application/pdf'></object>
