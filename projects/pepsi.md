@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pepsi/HernandezEvan_E04square.png
+image: img/pepsi/square.png
 title: "Pepsi"
 date: 2022
 published: true
