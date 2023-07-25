@@ -7,6 +7,7 @@ published: true
 labels:
   - Web Development
 summary: This is a user guide to demonstrate what features and how easy it is to use Google Sites.
+essayurl: https://online.fliphtml5.com/fdbvh/slcr/
 ---
 <div>
   <h1> Google Sites</h1>
