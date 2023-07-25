@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Google Sites"
 date: 2021-07-29
-published: false
+published: true
 labels:
   - Web Development
 essayurl: https://online.fliphtml5.com/fdbvh/slcr/
