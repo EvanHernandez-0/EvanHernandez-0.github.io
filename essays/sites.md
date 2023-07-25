@@ -6,7 +6,7 @@ date: 2021-07-29
 published: true
 labels:
   - Web Development
-essayurl: https://online.fliphtml5.com/fdbvh/slcr/
+
 summary: This is a user guide to demonstrate what features and how easy it is to use Google Sites.
 ---
 <div>
@@ -17,7 +17,7 @@ summary: This is a user guide to demonstrate what features and how easy it is to
 <div>
   <h2>Introduction</h2> 
 
-    This is a user guide to demonstrate what features and how easy it is to use Google Sites. The benefit of using a service like Google Sites is how “user friendly” it is, by making the process of building a great-looking website straightforward and hassle-free. After reading this user guide you should be able to navigate this service with ease and be able to effectively build a simple yet charming website.  I will be covering how to get started using Google Sites, create the base website, add flavor, and publish it.
+  This is a user guide to demonstrate what features and how easy it is to use Google Sites. The benefit of using a service like Google Sites is how “user friendly” it is, by making the process of building a great-looking website straightforward and hassle-free. After reading this user guide you should be able to navigate this service with ease and be able to effectively build a simple yet charming website.  I will be covering how to get started using Google Sites, create the base website, add flavor, and publish it.
 </div>
 <div>
   <h2>History</h2>
@@ -102,6 +102,7 @@ summary: This is a user guide to demonstrate what features and how easy it is to
   If I had to describe my experience using Google Sites with a single word, I would say it was “Smart”.  Working with Google Sites made me feel like a professional just zipping through the process.  Everything I could want or need was a click away, and if it wasn’t one click away at most it was two.  My first impression was that Google Sites was for only those who didn't know a lick about coding, and by that I mean that there wasn’t an obvious way to add your own styling or HTML.  I still don’t completely know if there is, but by using the embed tool I was able to make a simple button with html.  The only challenge I ran into with Google Sites was making a collapsible text box group that excluded a text container above the other two containers I wanted to be paired together.  Everything else was very straightforward and very well thought out for those who would be using this service. 
   Below you can find a link to the published site built along with this user guide. 
   [CloudNine](https://sites.google.com/view/cloud99nine/blog)
+  [PDF](https://online.fliphtml5.com/fdbvh/slcr/)
 </div>
 <div>
 <h2>References</h2> 
