@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BouncingBall/HernandezEvan_E05-2.gif
+image: img/pepsi/HernandezEvan_E04.png
 title: "Pepsi"
 date: 2022
 published: true
@@ -13,8 +13,9 @@ summary: "Displaying my effective use of vector shapes and an eye for detail by 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/BouncingBall/HernandezEvan_E05-2.gif" class="img-thumbnail" >
-  <img width="200px" src="../img/BouncingBall/NVC- ARTC-1302- Day05-BouncingBall-Cleanup.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/pepsi/HernandezEvan_E04.png" class="img-thumbnail" >
+  <img width="200px" src="../img/pepsi/pepsiLogo.png" class="img-thumbnail" >
 </div>
 
-This is an illustration of a the Pepsi logo utilizing vector shapes and an eye for detail.
+This is an illustration of the Pepsi logo utilizing vector shapes and an eye for detail.
+img/pepsi/HernandezEvan_E04.png
