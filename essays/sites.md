@@ -8,4 +8,4 @@ labels:
   - Web Development
 ---
  <sub>A User Guide</sub>
-<object data="../essays/pdf/project.pdf#view=FitH" width="1500" height="1000" type='application/pdf'></object>
+<object data="https://github.com/EvanHernandez-0/EvanHernandez-0.github.io/blob/main/essays/pdf/Project.pdf#view=FitH" width="1500" height="1000" type='application/pdf'></object>
