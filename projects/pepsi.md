@@ -19,4 +19,4 @@ summary: "Displaying my effective use of vector shapes and an eye for detail by 
   <sub>Fig 2.</sub>
 </div>
 
-This is an illustration of the Pepsi logo utilizing vector shapes and an eye for detail.  Figure 1 is my work, and Figure 2 is the official Logo.
+This is an illustration of the Pepsi logo utilizing vector shapes and an eye for detail.  Figure 1 is my work, and Figure 2 is the official Logo. 
