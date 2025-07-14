@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Evan Hernandez",
+    "label": "Applications Developer",
+    "picture": "https://github.com/evanhernandez-0.png",
+    "email": "hernandez.evan200@gmail.com",
+    "website": "https://evanhernandez-0.github.io/",
+    "summary": "I'm a hands-on developer with an A.A.S. in Computer Programming (3.6 GPA) and a real passion for building things that work — and work well. I’ve had practical experience with full-stack development, object-oriented programming, and troubleshooting everything from code to hardware. My go-to tools include C#, C++, Python, and PHP, and I’ve built everything from web apps with database backends to task automation scripts. I pick up new tech quickly, write clean and reliable code, and genuinely enjoy solving problems. I'm excited to bring that energy to a development team where I can keep learning, contribute to meaningful projects, and help build reliable, effective tech solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "78216",
+      "city": "San Antonio",
+      "countryCode": "USA",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": "http://github.com/EvanHernandez-0"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "http://linkedin.com/in/evan-hernandez-a2a821112"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Full-Stack Development"
+    },
+    {
+      "name": "Web Development"
+    },
+    {
+      "name": "Automation Scripting"
+    },
+    {
+      "name": "Database Design"
+    },
+    {
+      "name": "Object-Oriented Programming"
+    },
+    {
+      "name": "Debugging & Troubleshooting"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "keywords": ["Languages (C#, C++, Python, PHP, JavaScript)", "Web (HTML, CSS, XAMPP, MySQL, REST APIs)", "Tools (VS Code, Git, Packet Tracer, PowerShell, VirtualBox)", "Concepts (OOP, Agile Development, Task Automation, XML, Web Services)", "Familiar with (.NET Framework, ASP.NET, TFS)"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Customer Service",
+        "Time Management",
+        "Problem Solving",
+        "Adaptability",
+        "Written Communication"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "institution": "San Antonio College District, TX",
+      "area": "Computer Programming — GPA: 3.6",
+      "studyType": "A.A.S.",
+      "startDate": "2022",
+      "endDate": "May 2025",
+      "courses": [
+      "Completed 20+ high-performing technical courses, including:",
+      "Programming Logic & Design",
+      "Advanced C++ Programming",
+      "Java Programming",
+      "Python Scripting",
+      "C# Programming",
+      "Object-Oriented Programming",
+      "PHP Programming",
+      "JavaScript & jQuery",
+      "HTML & CSS",
+      "Introduction to Web Programming",
+      "Intermediate Web Programming",
+      "Advanced Web Programming",
+      "Web Application Development",
+      "MySQL Database Development",
+      "Database Design & SQL",
+      "Information Technology Security",
+      "Fundamentals of Networking",
+      "Cisco Networking (Packet Tracer)",
+      "Linux Installation & Configuration",
+      "Advanced Linux System Administration",
+      "Operating Systems",
+      "Virtualization Technologies (VirtualBox)",
+      "Software Development Tools",
+      "Capstone Project"]
+    }
+  ],
+  "work": [
+    {
+      "company": "North Park Mazda",
+      "position": "Sales Porter",
+      "website": "https://www.npmazda.com/",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "As a Sales Porter at NorthPark Mazda, I focus on providing exceptional service and ensuring that every vehicle meets the highest standards of cleanliness and presentation. I take pride in creating a seamless and positive experience for customers by maintaining showroom-ready conditions and supporting the sales team with professionalism and urgency. With strong time management and a sharp eye for detail, I thrive in a fast-paced environment and contribute to the overall excellence and reputation of the dealership.",
+    },
+    {
+      "company": "North Park Lexus of San Antonio",
+      "position": "Courtesy Car Specialist",
+      "website": "https://www.northparklexus.com/",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "As a Loaner Porter, my primary focus is delivering exceptional customer service, ensuring the highest level of satisfaction for our guests. I take pride in maintaining impeccable cleanliness standards for loaner vehicles, striving to create a superior experience for every customer. Through meticulous attention to detail and a commitment to excellence, I consistently exceed expectations and contribute to the positive reputation of the organization.",
+    },
+    {
+      "company": "Merit Coffee",
+      "position": "Team Lead",
+      "website": "https://meritcoffee.com/",
+      "startDate": "2022",
+      "endDate": "N/A",
+      "summary": "Lead baristas are instrumental in building customer relationships and fostering a positive and friendly store environment. They also provide technical guidance to new team members and assist in the training program. ",
+      "highlights": [
+        "  Welcoming customers, informing them about specials or new items, answering questions, and accepting orders and payments",
+
+        "  Preparing specialty coffee drinks of the very highest quality, as well as teas and other beverages",
+
+        "  Maintain coffee knowledge on current offerings and communicate product information to customers."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Occupational Skills Award - Web Programming",
+      "date": "May 2025",
+      "awarder": "San Antonio College District",
+      "summary": "Awarded as recognition of foundational skills in web development and programming, including core concepts in HTML, CSS, JavaScript, and introductory software development principles. Serves as the first credential toward advanced certificates in programming."
+    },
+    {
+      "title": "Occupational Skills Award - Java Programming",
+      "date": "May 2025",
+      "awarder": "San Antonio College District",
+      "summary": "Recognized for foundational training in Java programming, object-oriented concepts, and software logic. Designed as a starting point for advanced programming certificates and ideal for developers expanding into Java-based application development."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
