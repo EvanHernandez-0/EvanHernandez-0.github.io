@@ -1,32 +1,78 @@
-# REQUIRED CHANGES
-# Edit next line to provide your own name.
-title: Evan Hernandez | Professional Portfolio
-# Edit next line, replacing 'techfolios' with your github username
-url: "https://EvanHernandez-0.github.io"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ""
+# Site settings
+title: Evan Hernandez
+email: hernandez.evan200@gmail.com
+url: https://EvanHernandez-0.github.io
+description: "I'm a hands-on developer with an A.A.S. in Computer Programming (3.6 GPA) and a real passion for building things that work — and work well. I’ve had practical experience with full-stack development, object-oriented programming, and troubleshooting everything from code to hardware. My go-to tools include C#, C++, Python, and PHP, and I’ve built everything from web apps with database backends to task automation scripts. I pick up new tech quickly, write clean and reliable code, and genuinely enjoy solving problems. I'm excited to bring that energy to a development team where I can keep learning, contribute to meaningful projects, and help build reliable, effective tech solutions."
+keywords: "your keywords, separated by commas"
+skills: "Database Designer - Task Automation Developer - Web Developer - Object-Oriented Programmer"
+meta_author: Hernandez Evan
 
+<<<<<<< Updated upstream
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
 techfolio-theme: default.css
 ## Specify the formatting for triple backquote code sections.
 rouge-theme: github.css
+=======
+# Google webmaster tools
+google_verify:
+>>>>>>> Stashed changes
 
-# DON'T CHANGE THE FOLLOWING (unless you know what you're doing)
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Evan Hernandez
+  location: San Antonio, TX
+  social: linkedin, github 
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: San Antonio, TX 78216
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
 markdown: kramdown
-kramdown:
-  hard_wrap: false
-  input: GFM
-  syntax_highlighter: rouge
-strict_front_matter: true
-mathjax: true
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-include:
-  - .nojekyll
-  - _data
-plugins:
-  - jekyll-gist
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
