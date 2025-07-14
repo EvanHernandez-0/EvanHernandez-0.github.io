@@ -5,7 +5,7 @@
     "picture": "https://github.com/evanhernandez-0.png",
     "email": "hernandez.evan200@gmail.com",
     "website": "https://evanhernandez-0.github.io/",
-    "summary": "Motivated and hands-on developer with an A.A.S. in Computer Programming (3.6 GPA) and practical experience in full-stack web development, object-oriented programming, and IT systems troubleshooting. Skilled in C#, C++, Python, and PHP, with strong ability to build database-integrated applications and automate tasks. Known for fast learning, reliability, and delivering clean, maintainable code. Eager to contribute to Bexar County’s IT mission with a sharp eye for detail and commitment to public service tech.",
+    "summary": "I'm a hands-on developer with an A.A.S. in Computer Programming (3.6 GPA) and a real passion for building things that work — and work well. I’ve had practical experience with full-stack development, object-oriented programming, and troubleshooting everything from code to hardware. My go-to tools include C#, C++, Python, and PHP, and I’ve built everything from web apps with database backends to task automation scripts. I pick up new tech quickly, write clean and reliable code, and genuinely enjoy solving problems. I'm excited to bring that energy to a development team where I can keep learning, contribute to meaningful projects, and help build reliable, effective tech solutions.",
     "location": {
       "address": "",
       "postalCode": "78216",
@@ -28,49 +28,93 @@
   },
   "interests": [
     {
-      "name": "Interactive media"
-    },
-    {
-      "name": "Game Development"
-    },
-    {
-      "name": "Digital Imaging"
-    },
-    {
-      "name": "Databases"
+      "name": "Full-Stack Development"
     },
     {
       "name": "Web Development"
+    },
+    {
+      "name": "Automation Scripting"
+    },
+    {
+      "name": "Database Design"
+    },
+    {
+      "name": "Object-Oriented Programming"
+    },
+    {
+      "name": "Debugging & Troubleshooting"
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Javascript", "CSS", "SQL"]
+      "name": "Technical Skills",
+      "keywords": ["Languages (C#, C++, Python, PHP, JavaScript)", "Web (HTML, CSS, XAMPP, MySQL, REST APIs)", "Tools (VS Code, Git, Packet Tracer, PowerShell, VirtualBox)", "Concepts (OOP, Agile Development, Task Automation, XML, Web Services)", "Familiar with (.NET Framework, ASP.NET, TFS)"]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Soft Skills",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "Windows",
-        "WordPress"
+        "Customer Service",
+        "Time Management",
+        "Problem Solving",
+        "Adaptability",
+        "Written Communication"
       ]
     }
   ],
   "Education": [
     {
-      "institution": "San Antonio College, Tx",
-      "area": "Computer Programming (expected Spring, 2024)",
+      "institution": "San Antonio College District, TX",
+      "area": "Computer Programming — GPA: 3.6",
       "studyType": "A.A.S.",
-      "startDate": "2019-09-01",
-      "endDate": "Present",
-      "courses": []
+      "startDate": "2022",
+      "endDate": "May 2025",
+      "courses": [
+      "Completed 20+ high-performing technical courses, including:",
+      "Programming Logic & Design",
+      "Advanced C++ Programming",
+      "Java Programming",
+      "Python Scripting",
+      "C# Programming",
+      "Object-Oriented Programming",
+      "PHP Programming",
+      "JavaScript & jQuery",
+      "HTML & CSS",
+      "Introduction to Web Programming",
+      "Intermediate Web Programming",
+      "Advanced Web Programming",
+      "Web Application Development",
+      "MySQL Database Development",
+      "Database Design & SQL",
+      "Information Technology Security",
+      "Fundamentals of Networking",
+      "Cisco Networking (Packet Tracer)",
+      "Linux Installation & Configuration",
+      "Advanced Linux System Administration",
+      "Operating Systems",
+      "Virtualization Technologies (VirtualBox)",
+      "Software Development Tools",
+      "Capstone Project"
+    ]
     }
   ],
   "work": [
+    {
+      "company": "North Park Mazda",
+      "position": "Sales Porter",
+      "website": "https://www.npmazda.com/",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "As a Sales Porter at NorthPark Mazda, I focus on providing exceptional service and ensuring that every vehicle meets the highest standards of cleanliness and presentation. I take pride in creating a seamless and positive experience for customers by maintaining showroom-ready conditions and supporting the sales team with professionalism and urgency. With strong time management and a sharp eye for detail, I thrive in a fast-paced environment and contribute to the overall excellence and reputation of the dealership.",
+    }
+    {
+      "company": "North Park Lexus of San Antonio",
+      "position": "Courtesy Car Specialist",
+      "website": "https://www.northparklexus.com/",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "As a Loaner Porter, my primary focus is delivering exceptional customer service, ensuring the highest level of satisfaction for our guests. I take pride in maintaining impeccable cleanliness standards for loaner vehicles, striving to create a superior experience for every customer. Through meticulous attention to detail and a commitment to excellence, I consistently exceed expectations and contribute to the positive reputation of the organization.",
+    }
     {
       "company": "Merit Coffee",
       "position": "Team Lead",
@@ -83,16 +127,22 @@
 
         "  Preparing specialty coffee drinks of the very highest quality, as well as teas and other beverages",
 
-        "  Maintain coffee knowledge on current offerings and clearly communicate product information to customers"
+        "  Maintain coffee knowledge on current offerings and communicate product information to customers."
       ]
     }
   ],
   "awards": [
     {
-      "title": "Web Programming, Occupational Skills Award",
-      "date": "Spring 2022",
-      "awarder": "San Antonio College",
-      "summary": "The Computer Programming Occupational Skills award is a basic introduction to web programming and a starting point for the Level 1 Certificate."
+      "title": "Occupational Skills Award - Web Programming",
+      "date": "May 2025",
+      "awarder": "San Antonio College District",
+      "summary": "Awarded as recognition of foundational skills in web development and programming, including core concepts in HTML, CSS, JavaScript, and introductory software development principles. Serves as the first credential toward advanced certificates in programming."
+    }
+    {
+      "title": "Occupational Skills Award - Java Programming",
+      "date": "May 2025",
+      "awarder": "San Antonio College District",
+      "summary": "Recognized for foundational training in Java programming, object-oriented concepts, and software logic. Designed as a starting point for advanced programming certificates and ideal for developers expanding into Java-based application development."
     }
   ],
   "references": [
